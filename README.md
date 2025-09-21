@@ -19,7 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** files/Internal_PPT_TheCodefather.pdf
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** https://github.com/Chinmay-2704/CleanCity-SIH
