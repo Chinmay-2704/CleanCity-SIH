@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - 2023UEI2807 - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - 2023UEC2679 - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - 2023UEI2518 - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - 2023UEI2652 - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - 2023UEI2682 - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - 2023UEI2580 - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_1** - 2023UEI2807 - DHRUV BAJAJ (https://www.github.com/dhruvbajaj13)
+- **MEMBER_2** - 2023UEC2679 - ANUBHAV (https://github.com/USERNAME)
+- **MEMBER_3** - 2023UEI2518 - ADITYA SINGH BUTOLA (https://github.com/USERNAME)
+- **MEMBER_4** - 2023UEI2652 - AYUSH VASHISHTH (https://github.com/USERNAME)
+- **MEMBER_5** - 2023UEI2682 - CHINMAY NARAYAN (https://github.com/Chinmay-2704)
+- **MEMBER_6** - 2023UEI2580 - CHANDNI GUPTA (https://github.com/USERNAME)
 
 ## Project Links
 
