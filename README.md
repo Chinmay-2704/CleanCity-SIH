@@ -6,7 +6,7 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Name:** The Codefather
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** CHINMAY NARAYAN (https://github.com/Chinmay-2704)
 
 **Team Members:**
 
