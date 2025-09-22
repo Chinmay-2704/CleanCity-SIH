@@ -23,4 +23,4 @@ This README provides an overview of the project, including team details, relevan
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** (https://clean-city-sih.vercel.app/)
 - **Source Code:** https://github.com/Chinmay-2704/CleanCity-SIH
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+
