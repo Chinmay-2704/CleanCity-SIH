@@ -41,19 +41,4 @@ Follow these steps to run the project locally
    git clone https://github.com/Chinmay-2704/CleanCity_SIH.git
    cd CleanCity_SIH
    ```
-2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-3. **Run Development Server**
-   ```bash
-   npm run dev
-   ```
-4. **Build for Production**
-   ```bash
-   npm run build
-   ```
-5. **Preview Production Build**
-   ```bash
-   npm run preview
-   ```
+
