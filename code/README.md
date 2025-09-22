@@ -38,8 +38,8 @@ Follow these steps to run the project locally
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Chinmay-2704/CleanCity-SIH.git
-   cd CleanCity-SIH
+   git clone https://github.com/Chinmay-2704/CleanCity_SIH.git
+   cd CleanCity_SIH
    ```
 2. **Install Dependencies**
    ```bash
